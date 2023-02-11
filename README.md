@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-https://user-images.githubusercontent.com/121885175/218274245-c0c3c68c-e9ba-4294-be24-547e9875f3f7.mp4
-
-
-
 ### Hi there 👋
 - 🌱 I’m currently learning Computer Engineering
 - 💬 Ask me about ME 
