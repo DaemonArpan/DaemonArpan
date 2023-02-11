@@ -1,4 +1,5 @@
-![arpangithub gif](https://user-images.githubusercontent.com/121885175/218274594-94557f39-9f72-482b-8c07-2d6292d5cdb5.gif)
+![arpangithubbanner gif](https://user-images.githubusercontent.com/121885175/218274924-953bf914-702c-4258-9b4b-08763476549b.gif)
+
 ### Hi there 👋
 - 🌱 I’m currently learning Computer Engineering
 - 💬 Ask me about ME 
